@@ -71,7 +71,9 @@ int main()
 
 ```
 ## Output:
-![output](/image-4.png)
+
+![image](https://github.com/user-attachments/assets/83f9f7aa-3bca-4f28-b3ec-768b4e89838c)
+
 
 
 
