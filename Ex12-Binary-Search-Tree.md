@@ -16,7 +16,7 @@ To write a C function to insert the elements in the binary search tree
 ## Program:
 ```
 /*
-Program to perform post order traversal of a binary tree.
+Program to insert the elements in the binary search tree
 Developed by: Sriram Gopalan G
 RegisterNumber: 212222230149
 */
